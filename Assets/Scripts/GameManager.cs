@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour
     [System.Serializable]
     public class SaveData
     {
+        //УРАААААААААААА
     public int score = 0;
     public string namePlayer = "Name";
     }
