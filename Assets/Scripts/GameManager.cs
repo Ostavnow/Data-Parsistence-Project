@@ -21,6 +21,7 @@ public class GameManager : MonoBehaviour
     public class SaveData
     {
         //УРАААААААААААА
+        public int s;
     public int score = 0;
     public string namePlayer = "Name";
     }
